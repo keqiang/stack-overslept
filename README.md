@@ -1,6 +1,6 @@
 # stack-overslept 💤
 
-_Your serverless stack slept in. Your bill thanked it._ Scale-to-zero rules for Next.js on Vercel + Neon.
+_Serverless, not sleepless._ Scale-to-zero rules for Next.js on Vercel + Neon.
 
 > You pay for the time your stack is awake, not for traffic. A few code patterns keep Vercel functions and the Neon database from ever sleeping. Fix those and the same app costs a fraction, often without changing plans.
 
